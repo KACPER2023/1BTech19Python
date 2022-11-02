@@ -75,3 +75,13 @@
 # for i in range(10, 100, 2):
 #   suma = suma + n
 # print(suma)
+
+# Zad 6
+# Fibo według literatury 0 1 1 2 3 5 8 13 ...
+# Fibo nasze: 1, 2, 3, 5, 8, ...
+
+n = int(input())
+a, b = 0, 1
+for i in range(n):
+  a, b = b, a + b
+  print(b)
