@@ -27,7 +27,18 @@
 #     suma += i
 # print(suma)
 
-# Zad 3
+# Zad 4
+# for i in range(99, 9, -1):
+#    if i % 7 == 0:
+#      wielokrotność = i
+#      break
+# ilosc = 0
+# for i in range(1000, 10000):
+#   if i % wielokrotność == 0:
+#     ilosc += 1
+# print(ilosc)
+
+# Zad 4
 
 # ilosc = 0
 # for i in range(10,  100):
@@ -36,6 +47,17 @@
 #   if cd >= 2*cj:
 #     ilosc += 1
 # print(ilosc)
-  
-  
+
+# Zad 5
+
+ilosc = 0
+suma = 0
+for i in range(10,  100):
+  cs = i // 100
+  cd = i // 10
+  cj = i % 10
+ 
+print(ilosc)
+
+ 
   
