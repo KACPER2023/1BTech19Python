@@ -42,3 +42,18 @@ print(L)
 
 # Zad 3
 # print(L.count(max(L)))
+
+
+# Zad 4
+
+# Zad 5
+
+# Zad 6
+
+# Zad 7
+
+# Zad 8
+
+# Zad 9
+
+# Zad 10
